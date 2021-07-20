@@ -1,5 +1,5 @@
 # PharmacyAppFlutter
-This is flutter app which is the frontend part of pharmacy app
+This is flutter app which is the frontend part of pharmacy app.
 
 This project does'nt work as a standalone.
 **Follow these steps**
